@@ -1,3 +1,3 @@
 # blog_source
 
-[くろたんくブログ](https://blog.blacktanktop.me)のサンプルコードなどのレポジトリ
+[くろたんく雑記帳](https://blacktanktop.hatenablog.com/)のサンプルコードなどのレポジトリ
